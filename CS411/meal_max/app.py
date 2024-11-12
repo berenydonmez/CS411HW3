@@ -6,7 +6,7 @@ from meal_max.models import kitchen_model
 from meal_max.models.battle_model import BattleModel
 from meal_max.utils.sql_utils import check_database_connection, check_table_exists
 
-
+#works
 # Load environment variables from .env file
 load_dotenv()
 
